@@ -2,15 +2,18 @@
     {
         "name": "Mixifi",
         "link": "http://mixifi.boomchinchilla.com",
-        "github": "http://github.com/wolfiezero/mixifi"
+        "github": "http://github.com/wolfiezero/mixifi",
+        "blurb": "Find out how much a Spotify playlist or track would cost in iTunes by simply dragging and dropping the relevent tunes into Mixifi."
     },
     {
         "name": "Emo Foodie",
         "link": "http://emofoodie.boomchinchilla.com",
-        "github": "http://github.com/wolfiezero/emofoodie"
+        "github": "http://github.com/wolfiezero/emofoodie",
+        "blurb": "Track your personal emotions and feelings regarding what food you eat. Find a pattern and analyse your diet. Inteded for those with IBD related illnesses or those who are curious."
     },
     {
         "name": "IsDogFriendly.com",
-        "link": "http://isdogfriendly.com"
+        "link": "http://isdogfriendly.com"m
+        "blurb": "What's the nearest location that allows dogs in? A website and app to track where you might go in a local area or even on holiday that will allow your dog to join."
     }
 ]
