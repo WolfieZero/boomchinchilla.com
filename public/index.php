@@ -18,6 +18,10 @@
         a {
             color: #A05282;
         }
+        .logo {
+              width: 50%;
+              margin-left: -21%;
+        }
     </style>
 </head>
 
@@ -26,7 +30,7 @@
     <header class="row">
         <div class="column">
             <div class="text-center">
-                <img src="logo.png" alt="Boom! Chinchilla">
+                <img src="logo.png" alt="Boom! Chinchilla" class="logo">
             </div>
         </div>
     </header>
