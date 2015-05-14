@@ -41,8 +41,10 @@
         <div class="row">
             <div class="column">
                 <h3 class="text-center"><a href="<?php echo $project->link; ?>"><?php echo $project->name; ?></a></h3>
+                <div class="text-center">
+                    <?php echo $project->blurb; ?>
+                </div>
                 <div class="text-center"><?php
-
                     if (! empty($project->github)) {
                         echo '<a href="' . $project->github . '"><i class="fa fa-github"></i></a>';
                     }
