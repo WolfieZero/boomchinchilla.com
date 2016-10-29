@@ -11,9 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Boom! Chinchilla</title>
     <meta name="description" content="Demo site for web applications">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://cdn.jsdelivr.net/foundation/5.5.1/css/foundation.min.css">
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation.min.js">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
     <style>
         a {
             color: #A05282;
